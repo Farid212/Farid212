@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Farid212][website] 👋
+### Hi there, I'm Farid - aka [Farid212][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farid212.dev)
 
