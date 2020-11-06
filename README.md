@@ -60,6 +60,16 @@
 
 <br />
 
+### Dev Community
+
+<!-- DEVTO:START -->
+- [​​ HOW TO RUN .EXE FILE IN ANDROID](https://dev.to/farid212/how-to-run-exe-file-in-android-1jj7)
+- [First Post](https://dev.to/farid212/test-for-rss-4lfe)
+<!-- DEVTO:END -->
+
+➡️ [more devto posts... ](https://dev.to/farid212)
+
+
 ### My Blog
 
 <!-- BLOG:START -->
@@ -74,15 +84,6 @@
 <!-- MEDIUM:END -->
 
 ➡️ [more medium posts...](https://medium.com/@farid212)
-
-### Dev Community
-
-<!-- DEVTO:START -->
-- [​​ HOW TO RUN .EXE FILE IN ANDROID](https://dev.to/farid212/how-to-run-exe-file-in-android-1jj7)
-- [First Post](https://dev.to/farid212/test-for-rss-4lfe)
-<!-- DEVTO:END -->
-
-- [more devto posts... ](https://dev.to/farid212)
 
 
 [website]: https://farid212.dev
