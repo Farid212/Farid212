@@ -67,6 +67,8 @@
 
 ### Medium
 <!-- MEDIUM:START -->
+- [What's Is DarkNet ?](https://medium.com/@farid212/whats-is-darknet-1e0946ba46b6?source=rss-f0dc5f206f6e------2)
+- [HOW TO INCREASE VIRTUAL RAM OF YOUR PC](https://medium.com/@farid212/how-to-increase-virtual-ram-of-your-pc-78bee7e36834?source=rss-f0dc5f206f6e------2)
 <!-- MEDIUM:END -->
 
 ### Dev Community
