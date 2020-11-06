@@ -50,7 +50,6 @@
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true)
-
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farid212&line_height=40)
 
 
