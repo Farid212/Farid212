@@ -1,6 +1,6 @@
 ### Hi there, I'm Farid - aka [Farid212][website] 👋
 
-[![Website](https://img.shields.io/website?label=farid212.dev&style=for-the-badge&url=https%3A%2F%2farid212.dev)](https://farid212.dev)
+[![](https://img.shields.io/website?down_color=red&down_message=lightgrey&label=Farid212.dev&style=for-the-badge&up_color=green&up_message=Live&url=https%3A%2F%2Ffarid212.dev%2F)](https://farid212.dev)
 
 ## I'm a Husband, Father, Full Stack Developer, and Teacher!!
 
