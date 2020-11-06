@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: DEVTO
-          feed_list: "https://dev.to/farid212"
+          feed_list: "https://dev.to/feed/farid212"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM
@@ -22,4 +22,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
             comment_tag_name: BLOG
-            feed_list: "https://blog.farid212.dev/rss"
+            feed_list: "https://farid212.web.app/"
