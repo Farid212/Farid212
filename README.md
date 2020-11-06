@@ -60,10 +60,19 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+### My Blog
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### Medium
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+### Dev Community
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
 ➡️ [more blog posts...](https://blog.farid212.dev)
 
