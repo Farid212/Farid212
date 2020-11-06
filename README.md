@@ -1,8 +1,8 @@
 ### Hi there, I'm Farid - aka [Farid212][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://farid212.dev)
+[![Website](https://img.shields.io/website?label=farid212.dev&style=for-the-badge&url=https%3A%2F%2farid212.dev)](https://farid212.dev)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Full Stack Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A JS SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -14,6 +14,7 @@
 ### Connect with me:
 
 [<img style="margin: 5px;" align="left" alt="farid212.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 <br />
 <br />
@@ -50,9 +51,21 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true)
 
-<br />
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farid212&line_height=40&hide=css)
 
+
+<br />
 
 ---
 
+<br />
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://blog.farid212.dev)
+
 [website]: https://farid212.dev
+[course]: #
