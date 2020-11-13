@@ -66,11 +66,11 @@
 ### Dev Community
 
 <!-- DEVTO:START -->
-- [Interview type of Algo #3](https://dev.to/farid212/interview-type-of-algo-3-j6j)
-- [Interview type of Algo #2](https://dev.to/farid212/interview-type-of-algo-2-1fef)
-- [Interview type of Algo #1](https://dev.to/farid212/add-border-challenge-17b2)
+- [Challenge Algo #4](https://dev.to/farid212/challenge-algo-4-55i9)
+- [Challenge Algo #3](https://dev.to/farid212/interview-type-of-algo-3-j6j)
+- [Challenge Algo #2](https://dev.to/farid212/interview-type-of-algo-2-1fef)
+- [Challenge Algo #1](https://dev.to/farid212/add-border-challenge-17b2)
 - [Addition Function](https://dev.to/farid212/addition-function-m07)
-- [​​ HOW TO RUN .EXE FILE IN ANDROID](https://dev.to/farid212/how-to-run-exe-file-in-android-1jj7)
 <!-- DEVTO:END -->
 
 ➡️ [more devto posts... ](https://dev.to/farid212)
