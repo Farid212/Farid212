@@ -10,19 +10,19 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drive and play baseball / video-games
 
+<br/>
 
-### Connect with me:
-
+## Connect with me: 
+---
 [<img align="center" alt="farid212.dev" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="farid212" height="30" width="40" />][devto]
 
 
 <br />
-<br />
 
-### Languages and Tools:
-
-<div>
+## Languages and Tools:
+---
+<div >
   <img style="margin: 10px;" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img style="margin: 10px;" alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img style="margin: 10px;" alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -44,16 +44,12 @@
   <img style="margin: 10px;" alt="Npm" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 </div>
 
+<br />
+
+
+## Github's Stats:
 ---
 
-
-<br />
-<br />
-
-
-### Github's Stats:
-
-<br />
 <br />
 <br />
 
@@ -61,6 +57,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
 </div>
+
+<br />
 
 
 <div align="center">
@@ -71,7 +69,10 @@
 <br />
 
 
-### Dev Community
+## [DEVTO][devto]
+---
+
+<br />
 
 <!-- DEVTO:START -->
 - [Challenge Algo #8 - Alphabet Sub Sequence](https://dev.to/farid212/challenge-algo-8-alphabet-sub-sequence-2agf)
@@ -81,22 +82,31 @@
 - [Challenge Algo #4 - return array with biggest strings](https://dev.to/farid212/challenge-algo-4-55i9)
 <!-- DEVTO:END -->
 
-➡️ [more devto posts... ](https://dev.to/farid212)
+<br />
+
+➡️ [more devto posts... ][devto]
+
+<br />
 
 
-### Medium
+## [Medium][medium]
+---
+
+<br />
+
 <!-- MEDIUM:START -->
 - [What's Is DarkNet ?](https://medium.com/@farid212/whats-is-darknet-1e0946ba46b6?source=rss-f0dc5f206f6e------2)
 - [HOW TO INCREASE VIRTUAL RAM OF YOUR PC](https://medium.com/@farid212/how-to-increase-virtual-ram-of-your-pc-78bee7e36834?source=rss-f0dc5f206f6e------2)
 <!-- MEDIUM:END -->
 
-➡️ [more medium posts...](https://medium.com/@farid212)
+<br />
+
+➡️ [more medium posts...][medium]
 
 
 <br />
 <br />
-<br />
-<br />
+
 
 
 <p align="center">
@@ -106,3 +116,4 @@
 [website]: https://farid212.dev
 [course]: #
 [devto]: https://dev.to/farid212
+[medium]: https://medium.com/@farid212
