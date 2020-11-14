@@ -55,8 +55,7 @@
 
 <div align="center">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true)
-</div>
-<div align="center">
+
   ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farid212&line_height=40)
 </div>
 
@@ -95,7 +94,7 @@
 ➡️ [more medium posts...](https://medium.com/@farid212)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" ></a>
 </p>
 
 [website]: https://farid212.dev
