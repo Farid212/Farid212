@@ -22,6 +22,8 @@
 
 ### Languages and Tools:
 
+<div style="display: flex; justify-content: space-between; padding: 10px !important;">
+
 <img style="margin: 10px;" align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img style="margin: 10px;" align="left" alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="margin: 10px;" align="left" alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,25 +43,16 @@
 <img style="margin: 10px;" align="left" alt="Firebase" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img style="margin: 10px;" align="left" alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="margin: 10px;" align="left" alt="Npm" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+</div>
 
 <br />
 <br />
 
 ### Github's Stats
 
-<br />
-<br />
-
-<div align="center">
-  
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
-
-</div>
-
-<div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid212">  
-
 </div>
 
 <br />
