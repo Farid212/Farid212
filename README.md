@@ -22,44 +22,44 @@
 
 ### Languages and Tools:
 
-<img style="margin: 10px;" align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin: 10px;" align="left" alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin: 10px;" align="left" alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin: 10px;" align="left" alt="Sass" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img style="margin: 10px;" align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img style="margin: 10px;" align="left" alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="margin: 10px;" align="left" alt="Gatsby" width="52px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img style="margin: 10px;" align="left" alt="GraphQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img style="margin: 10px;" align="left" alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="margin: 10px;" align="left" alt="SQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img style="margin: 10px;" align="left" alt="MySQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img style="margin: 10px;" align="left" alt="MongoDB" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img style="margin: 10px;" align="left" alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img style="margin: 10px;" align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img style="margin: 10px;" align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img style="margin: 10px;" align="left" alt="Atom" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img style="margin: 10px;" align="left" alt="Firebase" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img style="margin: 10px;" align="left" alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img style="margin: 10px;" align="left" alt="Npm" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+<div style="display: flex; justify-content: space-between; padding: 10px !important;">
+  <img style="margin: 10px;" align="left" alt="Visual Studio Code" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img style="margin: 10px;" align="left" alt="HTML5" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img style="margin: 10px;" align="left" alt="CSS3" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img style="margin: 10px;" align="left" alt="Sass" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img style="margin: 10px;" align="left" alt="JavaScript" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img style="margin: 10px;" align="left" alt="React" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img style="margin: 10px;" align="left" alt="Gatsby" width="52px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+  <img style="margin: 10px;" align="left" alt="GraphQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+  <img style="margin: 10px;" align="left" alt="Node.js" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img style="margin: 10px;" align="left" alt="SQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  <img style="margin: 10px;" align="left" alt="MySQL" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+  <img style="margin: 10px;" align="left" alt="MongoDB" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img style="margin: 10px;" align="left" alt="Git" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img style="margin: 10px;" align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img style="margin: 10px;" align="left" alt="Terminal" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img style="margin: 10px;" align="left" alt="Atom" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
+  <img style="margin: 10px;" align="left" alt="Firebase" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+  <img style="margin: 10px;" align="left" alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img style="margin: 10px;" align="left" alt="Npm" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+</div>
 
 
 <br />
-
-<br />
-
-<br />
-
----
-
 <br />
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true)
+### Github's Stats:
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farid212&line_height=40)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
+</div>
 
-<br />
-<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid212">  
+</div>
+
 <br />
 <br />
 
@@ -67,22 +67,15 @@
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Challenge Algo #8 - Alphabet Sub Sequence](https://dev.to/farid212/challenge-algo-8-alphabet-sub-sequence-2agf)
 - [Challenge Algo #7 - Caesar Shift](https://dev.to/farid212/challenge-algo-7-caesar-shift-528k)
 - [Challenge Algo #6 - Alphabetic Shift](https://dev.to/farid212/challenge-algo-6-alphabetic-shift-1k2m)
 - [Challenge Algo #5 - Almost Increasing Sequence](https://dev.to/farid212/challenge-algo-5-almost-increasing-sequence-2ee)
 - [Challenge Algo #4 - return array with biggest strings](https://dev.to/farid212/challenge-algo-4-55i9)
-- [Challenge Algo #3 - Adjacent largest product](https://dev.to/farid212/interview-type-of-algo-3-j6j)
 <!-- DEVTO:END -->
 
 ➡️ [more devto posts... ](https://dev.to/farid212)
 
-
-### My Blog
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
-➡️ [more blog posts...](https://blog.farid212.dev)
 
 ### Medium
 <!-- MEDIUM:START -->
@@ -93,7 +86,15 @@
 ➡️ [more medium posts...](https://medium.com/@farid212)
 
 
+<br />
+<br />
+<br />
+<br />
 
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/farid212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
 
 [website]: https://farid212.dev
 [course]: #
