@@ -42,19 +42,23 @@
 <img style="margin: 10px;" align="left" alt="Python" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style="margin: 10px;" align="left" alt="Npm" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
+<br />
+<br />
+
 ### Github's Stats
 
+<br />
 <br />
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid212">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid212">  
 
 </div>
 
@@ -93,7 +97,7 @@
 ➡️ [more medium posts...](https://medium.com/@farid212)
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 170px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="faridh212" style="height: 40px !important;width: 80px !important;" ></a>
 </p>
 
 [website]: https://farid212.dev
