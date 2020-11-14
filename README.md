@@ -67,11 +67,11 @@
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Challenge Algo #8 - Alphabet Sub Sequence](https://dev.to/farid212/challenge-algo-8-alphabet-sub-sequence-2agf)
 - [Challenge Algo #7 - Caesar Shift](https://dev.to/farid212/challenge-algo-7-caesar-shift-528k)
 - [Challenge Algo #6 - Alphabetic Shift](https://dev.to/farid212/challenge-algo-6-alphabetic-shift-1k2m)
 - [Challenge Algo #5 - Almost Increasing Sequence](https://dev.to/farid212/challenge-algo-5-almost-increasing-sequence-2ee)
 - [Challenge Algo #4 - return array with biggest strings](https://dev.to/farid212/challenge-algo-4-55i9)
-- [Challenge Algo #3 - Adjacent largest product](https://dev.to/farid212/interview-type-of-algo-3-j6j)
 <!-- DEVTO:END -->
 
 ➡️ [more devto posts... ](https://dev.to/farid212)
