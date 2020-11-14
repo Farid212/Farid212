@@ -64,8 +64,6 @@
 
 <br />
 <br />
-<br />
-<br />
 
 
 ### Dev Community
