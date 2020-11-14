@@ -66,11 +66,11 @@
 ### Dev Community
 
 <!-- DEVTO:START -->
+- [Challenge Algo #5 - Almost Increasing Sequence](https://dev.to/farid212/challenge-algo-5-almost-increasing-sequence-2ee)
 - [Challenge Algo #4 - return array with biggest strings](https://dev.to/farid212/challenge-algo-4-55i9)
 - [Challenge Algo #3 - Adjacent largest product](https://dev.to/farid212/interview-type-of-algo-3-j6j)
 - [Challenge Algo #2 - sum of 2 digits](https://dev.to/farid212/interview-type-of-algo-2-1fef)
 - [Challenge Algo #1 - add a Border](https://dev.to/farid212/add-border-challenge-17b2)
-- [Addition Function](https://dev.to/farid212/addition-function-m07)
 <!-- DEVTO:END -->
 
 ➡️ [more devto posts... ](https://dev.to/farid212)
