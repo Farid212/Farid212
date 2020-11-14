@@ -96,8 +96,9 @@
 
 ➡️ [more medium posts...](https://medium.com/@farid212)
 
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="faridh212" style="height: 40px !important;width: 80px !important;" ></a>
+<a href="https://www.buymeacoffee.com/farid212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
 
 [website]: https://farid212.dev
