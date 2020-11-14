@@ -19,7 +19,3 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@farid212"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-            comment_tag_name: BLOG
-            feed_list: "https://farid212.web.app/"
