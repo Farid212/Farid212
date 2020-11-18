@@ -112,6 +112,11 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/farid212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
+<p align="center">
+  <a href="https://www.paypal.com/donate?hosted_button_id=BNFSYG56PUXYJ" target="_blank">
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="paypalDonation" height="70" width="180" />
+    </a>
+</P>
 
 [website]: https://farid212.dev
 [course]: #
