@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Full Stack Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A JS SuperHero!][course]!
+- 🔭 I just start writing my first course: [Become A JS SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with new remotes startups
 - 🥅 2020 Goals: Contribute more to Open Source projects
