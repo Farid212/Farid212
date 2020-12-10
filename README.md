@@ -7,7 +7,7 @@
 - 🔭 I just start writing my first course: [Become A JS SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with new remotes startups
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to drive and play baseball / video-games
 
 <br/>
@@ -107,7 +107,9 @@
 <br />
 <br />
 
+## Donations
 
+Those are for creating Well in country/places where they do not have access to potable water.
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
