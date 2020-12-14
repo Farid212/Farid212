@@ -5,10 +5,7 @@
 ## I'm a Husband, Father, Full Stack Developer, and Teacher!!
 
 - 🔭 I just start writing my first course: [Become A JS SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with new remotes startups
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to drive and play baseball / video-games
+- 👯 I’m looking for a Developer Job
 
 <br/>
 
