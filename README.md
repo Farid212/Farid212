@@ -2,10 +2,10 @@
 
 [![](https://img.shields.io/website?down_color=red&down_message=lightgrey&label=Farid212.dev&style=for-the-badge&up_color=green&up_message=Live&url=https%3A%2F%2Ffarid212.dev%2F)](https://farid212.dev)
 
-## I'm a Husband, Father, Junior Full Stack Developer, and Teacher!!
+## I'm a Full Stack JavaScript Developer and Teacher!!
 
-- 🔭 I just start writing my first course: [Become A JS SuperHero!][course]!
-- 👯 I’m looking for a Developer Job
+- I just start writing my first course: [Become A JS SuperHero!][course]!
+
 
 <br/>
 
@@ -53,13 +53,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farid212&show_icons=true">
-</div>
-
-<br />
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid212">  
 </div>
 
 <br />
