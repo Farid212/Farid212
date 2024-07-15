@@ -1,1 +1,1 @@
-[![](https://readme-typing-svg.demolab.com?font=finger+paint&pause=1000&color=0CB807&center=true&vCenter=true&width=600&height=60&lines=Salam+Aleykoum%2C+I+hope+you+are+doing+good!;Welcome+on+my+profile!;I+am+Farid%2C+an+ADHD+Full+Stack+Solution+Engineer)](https://farid212.dev/)
+[![](https://readme-typing-svg.demolab.com?font=finger+paint&pause=1000&color=0CB807&center=true&vCenter=true&width=600&height=60&lines=Salam+Aleykoum%2C+I+hope+you+are+doing+good!;Welcome+on+my+profile!;I+am+Farid%2C+a+Full+Stack+Solution+Engineer)](https://farid212.dev/)
