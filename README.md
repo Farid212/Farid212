@@ -15,3 +15,29 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/f212"/>
     </a>
 </div>
+
+---
+
+<div align="center">
+    <!-- Replace with your cloud tech skills -->
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <!-- Add more badges similarly -->
+</div>
+
+---
+<div align="center">
+    <!-- Replace with your framework skills -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <!-- Add more badges similarly -->
+</div>
+
+---
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
+
+---
+
+
+
