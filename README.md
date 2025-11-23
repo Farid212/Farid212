@@ -1,25 +1,47 @@
-[![](<https://readme-typing-svg.demolab.com?font=finger+paint&duration=4000&pause=50&color=EFFF1F&multiline=true&width=600&height=350&separator=%3C&lines=function+welcomeThem()%7B%3C++const+msgs+%3D+%5B%3C++++%22Salam+Aleykoum!%22%2C%3C++++%22Welcome+on+my+Profile!%22%2C%3C++++%22I'm+Farid%2C+the+owner+of+this+place!%22%2C%3C++++%22Enjoy+your+time+here!%22%2C%3C++%5D;%3C++const+inGame+%3D+isHeGaming();+%3C++return+!inGame+%3F+displayMsg(msgs);+%3A+AFK();%3C%7D%3CwelcomeThem();%3CSORRY%2C+I+am+maybe+on+APEX+or+LOL!%3CLeave+a+message+somewhere!>)](https://farid212.dev/)
+[![](<https://readme-typing-svg.demolab.com?font=finger+paint&duration=4000&pause=50&color=EFFF1F&multiline=true&width=600&height=350&separator=%3C&lines=function+welcomeThem()%7B%3C++const+msgs+%3D+%5B%3C++++%22Salam+Aleykoum!%22%2C%3C++++%22Welcome+on+my+Profile!%22%2C%3C++++%22I'm+Farid%2C+nice+to+meet+you.%22%2C%3C++++%22Feel+free+to+look+around.%22%2C%3C++%5D;%3C++const+inGame+%3D+isHeGaming();+%3C++return+!inGame+%3F+displayMsg(msgs);+%3A+AFK();%3C%7D%3CwelcomeThem();%3CI+might+be+on+APEX+or+LoL...%3CLeave+a+message+somewhere!>)](https://farid212.dev/)
 
-# 👋 Yop, I'm Farid!
+# 👋 Hi, I'm Farid
 
-I'm a dedicated full-stack web developer from Belgium with over 11 years of experience, specializing in custom ERP/CRM and business applications. I’m fluent in **JavaScript**, especially **React** and **Node**, and have a strong grasp of Python for backend development, including Django and FastAPI. My journey in tech began with a passion for solving complex problems and creating efficient, meaningful solutions for people.
+I’m a full-stack web developer based in Belgium.  
+For the past 11+ years, I’ve been building custom ERP/CRM and business applications, mainly with **JavaScript** (React, Node) and, more recently, **Python** (**Django**, **FastAPI**).
 
-As the founder of **Yaba-Consulting**, I’m committed to helping visionary individuals, startups, and scale-ups turn their ideas into robust applications. My values? **Authenticity, honesty, and humility**. I work best when the focus is on fair, straightforward collaborations and delivering real results that matter.
+I’m the founder of **Yaba-Consulting**, a small studio where I help individuals, small teams, and growing companies turn ideas into reliable web applications. I value **clarity, honesty, and realistic expectations**: I prefer simple, maintainable solutions over over-engineering.
 
-## 💡 What I Bring to the Table:
+I’m also actively learning and improving my skills in **application and web security**. I’m not a security researcher, but I care about secure defaults, safe architectures, and avoiding obvious pitfalls as early as possible in a project.
 
-- **Front-End & Back-End Proficiency**: With advanced skills in **React** and **JavaScript** (7+ years with React, 11+ years with JavaScript), I bring clean, efficient code to life. Recently, I've been diving deeper into **Python** and loving the powerful, structured backend it supports.
-- **Business-Centric Mindset**: I build applications tailored for business needs—focusing on user experience, reliability, and scalability. My goal is to make technology a true asset, driving growth and efficiency.
-- **Security-First Approach**: I advocate for security in every line of code, making sure that the applications I build are as resilient as they are functional.
-- **Continuous Learning & Problem-Solving**: Whether it’s deep dives into JavaScript frameworks or exploring the latest in security practices, I’m always looking to grow and improve.
+---
 
-## 🎮 When I'm Not Coding
+## 💡 What I Bring
 
-I’m a huge fan of gaming, manga, and chess, and I grew up with classics like _Dragon Ball Z_, _Ranma 1/2_, _Saint Seiya_ and _Highschool! Kimengumi_, which shaped my values around resilience and persistence with a touch of fun.
+- **Full-Stack Development**
+  - 11+ years with **JavaScript**, 7+ years with **React**, experience with **Node.js** on the backend.
+  - Growing experience with **Python** ecosystems (**Django**, **FastAPI**) for structured and maintainable backends.
 
-## 🛠️ Tech Stack Highlights:
+- **Business-Oriented Mindset**
+  - Focus on understanding real workflows and constraints.
+  - I like to build tools that are actually used, not just “nice demos”.
 
-### Images/Videos
+- **Security-Aware Development**
+  - Attention to authentication, authorization, data handling and basic hardening.
+  - Interest in **OWASP** principles and integrating security early in the development process.
+
+- **Continuous Learning & Problem Solving**
+  - I enjoy refactoring legacy code, debugging tricky issues, and learning new patterns or tools when they make sense.
+
+---
+
+## 🎮 When I’m Not Coding
+
+I enjoy gaming, manga, and chess.  
+I grew up with _Dragon Ball Z_, _Ranma ½_, _Saint Seiya_ and _Highschool! Kimengumi_, which probably explains why I like a mix of persistence, discipline and a bit of humor in what I do.
+
+---
+
+## 🛠️ Tech Stack Highlights
+
+_These are tools and technologies I use or have used in different contexts._
+
+### Images / Videos
 
 ![Figma](https://img.shields.io/badge/Figma-Interface%20Design-0AC97F?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-Graphic%20Design-00C4CC?style=flat&logo=canva&logoColor=white)
@@ -31,7 +53,7 @@ I’m a huge fan of gaming, manga, and chess, and I grew up with classics like _
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Typed%20JavaScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Backend%20&%20Scripting-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Web%20Development-777BB4?style=flat&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-Web%20Development-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -62,7 +84,7 @@ I’m a huge fan of gaming, manga, and chess, and I grew up with classics like _
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?style=flat&logo=grafana&logoColor=white)
 
-### API
+### API / Platforms
 
 ![Firebase](https://img.shields.io/badge/Firebase-Backend%20Platform-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Contentful](https://img.shields.io/badge/Contentful-Headless%20CMS-2478CC?style=flat&logo=contentful&logoColor=white)
@@ -103,7 +125,7 @@ I’m a huge fan of gaming, manga, and chess, and I grew up with classics like _
 ![ESLint](https://img.shields.io/badge/ESLint-Code%20Quality-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-Code%20Formatter-F7B93E?style=flat&logo=prettier&logoColor=white)
 
-### Security
+### Security Tools (Learning & Usage)
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-5F0F88?style=flat&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat&logo=wireshark&logoColor=white)
@@ -136,14 +158,18 @@ I’m a huge fan of gaming, manga, and chess, and I grew up with classics like _
 ![Windows](https://img.shields.io/badge/Windows-OS-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-OS-000000?style=flat&logo=apple&logoColor=white)
 
-## Github Profile Summary Cards
+---
+
+## 📊 GitHub Profile Summary Cards
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farid212&theme=default" alt="languages"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farid212&theme=dark&utcOffset=8" alt="commits">
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farid212&theme=github_dark" alt="farid212's GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farid212&theme=github_dark" alt="farid212's GitHub Stats"/>
 
-## 🚀 You Got an Idea or wanna Build Something
+---
 
-If you’re looking for a developer who’s genuinely passionate about technology and brings a fresh perspective to projects, feel free to connect! Whether it's troubleshooting a complex issue, brainstorming solutions, or just a quick knowledge exchange, I’m always open to engaging with the community.
+## 🚀 Let’s Connect
+
+If you’re working on a web project, need help with an existing codebase, or want to exchange about **web development** and **security-aware practices**, feel free to reach out or open an issue on one of my repos.
