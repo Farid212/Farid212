@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Farid
 
-I’m a full-stack web developer based in Belgium.  
+I’m a full-stack solution engineer based in Belgium/Japan.  
 For the past 11+ years, I’ve been building custom ERP/CRM and business applications, mainly with **JavaScript** (React, Node) and, more recently, **Python** (**Django**, **FastAPI**).
 
 I’m the founder of **Yaba-Consulting**, a small studio where I help individuals, small teams, and growing companies turn ideas into reliable web applications. I value **clarity, honesty, and realistic expectations**: I prefer simple, maintainable solutions over over-engineering.
