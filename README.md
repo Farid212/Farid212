@@ -3,7 +3,7 @@
 I’m an entrepreneur and full-stack developer based between Belgium and Japan.  
 Most of my days are split between **building products**, **helping clients ship**, and **learning by doing**.
 
-I run [**Yaba-IT**](https://yaba-ib.be/) — a small studio where I turn ideas into maintainable web apps.  
+I run [**Yaba-IT**](https://yaba-it.be/) — a small studio where I turn ideas into maintainable web apps.  
 I try to keep things simple, clear, and realistic: I’d rather deliver something solid than chase complexity.
 
 ---
